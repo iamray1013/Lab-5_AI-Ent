@@ -1,0 +1,12 @@
+blinker
+click
+colorama
+Flask
+itsdangerous
+Jinja2
+joblib
+MarkupSafe
+numpy>=1.19.5
+scikit-learn
+scipy
+gunicorn
